@@ -19,7 +19,6 @@ Most of my current work ships in private repositories, so this profile stays foc
 ## Start here
 
 - [Selected work](https://github.com/Arty52/selected-work) - public-safe case studies and product summaries
-- [Engineering notes](https://github.com/Arty52/engineering-notes) - short writing on systems, AI workflows, and delivery
 
 ## Core themes
 
