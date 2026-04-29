@@ -12,7 +12,7 @@ Most of my current work ships in private repositories, so this profile stays foc
 
 ## Current focus
 
-- Building products at Biography-Ai and ODFillin
+- Building products at Biography-Ai, ODFillin, and VectorCareIQ
 - Turning MVPs into production systems without losing speed
 - Designing AI-assisted workflows that are usable, reliable, and operable
 
