@@ -32,3 +32,4 @@ Most of my current work ships in private repositories, so this profile stays foc
 - [LinkedIn](https://www.linkedin.com/in/artgrichine)
 - [Biography-Ai](https://www.biography-ai.com)
 - [ODFillin](https://www.odfillin.com)
+- [VectorCareIQ](https://www.vectorcareiq.com)
