@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Art Grichine banner" width="100%" />
+  <img src="./assets/profile-banner.png" alt="Art Grichine banner" width="100%" />
 </p>
 
 # Art Grichine
